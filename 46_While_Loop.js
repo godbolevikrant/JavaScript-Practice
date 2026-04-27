@@ -11,7 +11,6 @@ let password= "";
 
 while(password !== "Admin123"){
     password= prompt("Enter Password...")
-
 }
 
 console.log("Access Granted");
