@@ -6,5 +6,5 @@ navigator.geolocation.getCurrentPosition(
     function(error){
         console.error("Error Code: " + error.code + " - " + error.message);
     }
-)
+);
 
